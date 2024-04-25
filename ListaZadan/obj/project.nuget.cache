@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrfMJ3WdHaBYwdAsDDb7ULeYLMBsZHFd/imkbGxrDjzfm5xIpEjYvRU8gD1ANQAhpWgWkKwywbYJHeMRyvmJUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarek\\source\\repos\\ListaZadan\\ListaZadan\\ListaZadan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarek\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

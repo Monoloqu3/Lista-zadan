@@ -1,0 +1,17 @@
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\bin\Debug\net8.0\ListaZadan.exe
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\bin\Debug\net8.0\ListaZadan.deps.json
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\bin\Debug\net8.0\ListaZadan.runtimeconfig.json
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\bin\Debug\net8.0\ListaZadan.dll
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\bin\Debug\net8.0\ListaZadan.pdb
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.csproj.AssemblyReference.cache
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.AssemblyInfoInputs.cache
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.AssemblyInfo.cs
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.csproj.Up2Date
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.dll
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\refint\ListaZadan.dll
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.pdb
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ListaZadan.genruntimeconfig.cache
+C:\Users\Jarek\source\repos\ListaZadan\ListaZadan\obj\Debug\net8.0\ref\ListaZadan.dll
